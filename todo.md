@@ -1,4 +1,3 @@
-
 ### books
 * [Java特种兵](http://blog.csdn.net/xieyuooo/)
 * [Spring4.0升级](http://raibledesigns.com/rd/entry/a_webapp_makeover_with_spring)
